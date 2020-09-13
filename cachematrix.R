@@ -35,4 +35,4 @@ cacheSolve <- function(x, ...) {
 }
 
 ##If not, If not, It calculates the inverse and sets the value by setinv function
-## Return a matrix that is the inverse of matrix on makeCachematrix
+## Return a matrix that is the inverse of matrix on makeCachematrix.
